@@ -1,0 +1,224 @@
+{
+  "updated": "2026-10-03",
+  "documents": [
+    {
+      "id": "overview",
+      "title": {
+        "zh": "中心总体介绍",
+        "en": "About the center",
+        "ja": "センターのご案内"
+      },
+      "description": {
+        "zh": "了解中心、诊疗服务与就医流程。",
+        "en": "Explore our center, medical services and care journey.",
+        "ja": "センター、診療サービス、受診の流れをご紹介します。"
+      },
+      "files": [
+        {
+          "language": "zh",
+          "format": "pdf",
+          "version": "1.2",
+          "pages": 37,
+          "size": "14.6 MB",
+          "url": "/files/center-overview-zh.pdf",
+          "downloadName": "天津市第一中心医院_国际诊疗中心_中文版1.2.pdf"
+        },
+        {
+          "language": "en",
+          "format": "pdf",
+          "version": "1.2",
+          "pages": 37,
+          "size": "14.4 MB",
+          "url": "/files/center-overview-en.pdf",
+          "downloadName": "天津市第一中心医院_国际诊疗中心_英文版1.2.pdf"
+        },
+        {
+          "language": "ja",
+          "format": "pdf",
+          "version": "1.2",
+          "pages": 37,
+          "size": "14.6 MB",
+          "url": "/files/center-overview-ja.pdf",
+          "downloadName": "天津市第一中心医院_国际诊疗中心_日文版1.2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "outpatient",
+      "title": {
+        "zh": "门诊就诊指南",
+        "en": "Outpatient guide",
+        "ja": "外来受診のご案内"
+      },
+      "description": {
+        "zh": "预约准备、到院交通与门诊指引。",
+        "en": "Appointments, preparing for your visit and directions.",
+        "ja": "予約、受診の準備、アクセスと院内案内。"
+      },
+      "files": [
+        {
+          "language": "zh",
+          "format": "pdf",
+          "version": "1.1",
+          "pages": 7,
+          "size": "10.0 MB",
+          "url": "/files/outpatient-guide-zh.pdf",
+          "downloadName": "国际诊疗中心门诊就诊指南_1.1版.pdf"
+        },
+        {
+          "language": "en",
+          "format": "pdf",
+          "version": "1.1",
+          "pages": 7,
+          "size": "20.8 MB",
+          "url": "/files/outpatient-guide-en.pdf",
+          "downloadName": "国际诊疗中心门诊就诊指南_1.1版_English.pdf"
+        },
+        {
+          "language": "ja",
+          "format": "pdf",
+          "version": "1.1",
+          "pages": 7,
+          "size": "20.9 MB",
+          "url": "/files/outpatient-guide-ja.pdf",
+          "downloadName": "国际诊疗中心门诊就诊指南_1.1版_日本語.pdf"
+        }
+      ]
+    },
+    {
+      "id": "admission",
+      "title": {
+        "zh": "入院办理指南",
+        "en": "Admission guide",
+        "ja": "入院手続きのご案内"
+      },
+      "description": {
+        "zh": "办理入院、所需材料与病区路线。",
+        "en": "Admission steps, required documents and ward directions.",
+        "ja": "入院手続き、必要な書類と病棟への行き方。"
+      },
+      "files": [
+        {
+          "language": "zh",
+          "format": "pdf",
+          "version": "1.1",
+          "pages": 6,
+          "size": "4.7 MB",
+          "url": "/files/admission-guide-zh.pdf",
+          "downloadName": "国际诊疗中心住院指南_1.1版.pdf"
+        },
+        {
+          "language": "en",
+          "format": "pdf",
+          "version": "1.1",
+          "pages": 6,
+          "size": "4.7 MB",
+          "url": "/files/admission-guide-en.pdf",
+          "downloadName": "国际诊疗中心住院指南_1.1版_English.pdf"
+        },
+        {
+          "language": "ja",
+          "format": "pdf",
+          "version": "1.1",
+          "pages": 6,
+          "size": "4.9 MB",
+          "url": "/files/admission-guide-ja.pdf",
+          "downloadName": "国际诊疗中心住院指南_1.1版_日本語.pdf"
+        }
+      ]
+    },
+    {
+      "id": "amenities",
+      "title": {
+        "zh": "房型与设施",
+        "en": "Rooms & amenities",
+        "ja": "病室・アメニティ"
+      },
+      "description": {
+        "zh": "查看病房照片、面积与设施配置。",
+        "en": "Room photographs, floor areas and available amenities.",
+        "ja": "病室の写真、広さ、設備をご覧いただけます。"
+      },
+      "files": [
+        {
+          "language": "zh",
+          "format": "pdf",
+          "version": "1.0",
+          "pages": 3,
+          "size": "10.2 MB",
+          "url": "/files/rooms-amenities-zh.pdf",
+          "downloadName": "国诊中心病房配置_V1.0_中文版.pdf"
+        },
+        {
+          "language": "en",
+          "format": "pdf",
+          "version": "1.0",
+          "pages": 3,
+          "size": "8.5 MB",
+          "url": "/files/rooms-amenities-en.pdf",
+          "downloadName": "国诊中心病房配置_V1.0_英文版.pdf"
+        },
+        {
+          "language": "ja",
+          "format": "pdf",
+          "version": "1.0",
+          "pages": 3,
+          "size": "10.2 MB",
+          "url": "/files/rooms-amenities-ja.pdf",
+          "downloadName": "国诊中心病房配置_V1.0_日文版.pdf"
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "title": {
+        "zh": "就诊申请表",
+        "en": "Medical care request form",
+        "ja": "受診申請書"
+      },
+      "description": {
+        "zh": "中英双语 · 三页空白表格。",
+        "en": "A blank, three-page bilingual form.",
+        "ja": "日本語・中国語併記の申請用紙（3ページ）。"
+      },
+      "files": [
+        {
+          "language": "bilingual",
+          "format": "pdf",
+          "version": "1.5",
+          "pages": 3,
+          "size": "97 KB",
+          "url": "/files/medical-care-request-zh-en.pdf",
+          "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中英双语交互版.pdf"
+        },
+        {
+          "language": "bilingual",
+          "format": "docx",
+          "version": "1.5",
+          "pages": null,
+          "size": "43 KB",
+          "url": "/files/medical-care-request-zh-en.docx",
+          "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中英双语大字版.docx"
+        },
+        {
+          "language": "zh-ja",
+          "format": "pdf",
+          "version": "1.5",
+          "pages": 3,
+          "size": "1.7 MB",
+          "url": "/files/medical-care-request-zh-ja.pdf",
+          "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中日双语交互版.pdf"
+        },
+        {
+          "language": "zh-ja",
+          "format": "docx",
+          "version": "1.5",
+          "pages": null,
+          "size": "43 KB",
+          "url": "/files/medical-care-request-zh-ja.docx",
+          "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中日双语大字版.docx"
+        }
+      ]
+    }
+  ]
+}
