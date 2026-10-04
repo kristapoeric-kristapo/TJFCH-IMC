@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "documents": [
     {
       "id": "overview",
@@ -20,7 +20,7 @@
           "version": "1.2",
           "pages": 37,
           "size": "14.6 MB",
-          "url": "/files/center-overview-zh.pdf",
+          "url": "./files/center-overview-zh.pdf",
           "downloadName": "天津市第一中心医院_国际诊疗中心_中文版1.2.pdf"
         },
         {
@@ -29,7 +29,7 @@
           "version": "1.2",
           "pages": 37,
           "size": "14.4 MB",
-          "url": "/files/center-overview-en.pdf",
+          "url": "./files/center-overview-en.pdf",
           "downloadName": "天津市第一中心医院_国际诊疗中心_英文版1.2.pdf"
         },
         {
@@ -38,7 +38,7 @@
           "version": "1.2",
           "pages": 37,
           "size": "14.6 MB",
-          "url": "/files/center-overview-ja.pdf",
+          "url": "./files/center-overview-ja.pdf",
           "downloadName": "天津市第一中心医院_国际诊疗中心_日文版1.2.pdf"
         }
       ]
@@ -62,7 +62,7 @@
           "version": "1.1",
           "pages": 7,
           "size": "10.0 MB",
-          "url": "/files/outpatient-guide-zh.pdf",
+          "url": "./files/outpatient-guide-zh.pdf",
           "downloadName": "国际诊疗中心门诊就诊指南_1.1版.pdf"
         },
         {
@@ -71,7 +71,7 @@
           "version": "1.1",
           "pages": 7,
           "size": "20.8 MB",
-          "url": "/files/outpatient-guide-en.pdf",
+          "url": "./files/outpatient-guide-en.pdf",
           "downloadName": "国际诊疗中心门诊就诊指南_1.1版_English.pdf"
         },
         {
@@ -80,7 +80,7 @@
           "version": "1.1",
           "pages": 7,
           "size": "20.9 MB",
-          "url": "/files/outpatient-guide-ja.pdf",
+          "url": "./files/outpatient-guide-ja.pdf",
           "downloadName": "国际诊疗中心门诊就诊指南_1.1版_日本語.pdf"
         }
       ]
@@ -104,7 +104,7 @@
           "version": "1.1",
           "pages": 6,
           "size": "4.7 MB",
-          "url": "/files/admission-guide-zh.pdf",
+          "url": "./files/admission-guide-zh.pdf",
           "downloadName": "国际诊疗中心住院指南_1.1版.pdf"
         },
         {
@@ -113,7 +113,7 @@
           "version": "1.1",
           "pages": 6,
           "size": "4.7 MB",
-          "url": "/files/admission-guide-en.pdf",
+          "url": "./files/admission-guide-en.pdf",
           "downloadName": "国际诊疗中心住院指南_1.1版_English.pdf"
         },
         {
@@ -122,7 +122,7 @@
           "version": "1.1",
           "pages": 6,
           "size": "4.9 MB",
-          "url": "/files/admission-guide-ja.pdf",
+          "url": "./files/admission-guide-ja.pdf",
           "downloadName": "国际诊疗中心住院指南_1.1版_日本語.pdf"
         }
       ]
@@ -146,7 +146,7 @@
           "version": "1.0",
           "pages": 3,
           "size": "10.2 MB",
-          "url": "/files/rooms-amenities-zh.pdf",
+          "url": "./files/rooms-amenities-zh.pdf",
           "downloadName": "国诊中心病房配置_V1.0_中文版.pdf"
         },
         {
@@ -155,7 +155,7 @@
           "version": "1.0",
           "pages": 3,
           "size": "8.5 MB",
-          "url": "/files/rooms-amenities-en.pdf",
+          "url": "./files/rooms-amenities-en.pdf",
           "downloadName": "国诊中心病房配置_V1.0_英文版.pdf"
         },
         {
@@ -164,7 +164,7 @@
           "version": "1.0",
           "pages": 3,
           "size": "10.2 MB",
-          "url": "/files/rooms-amenities-ja.pdf",
+          "url": "./files/rooms-amenities-ja.pdf",
           "downloadName": "国诊中心病房配置_V1.0_日文版.pdf"
         }
       ]
@@ -188,7 +188,7 @@
           "version": "1.5",
           "pages": 3,
           "size": "97 KB",
-          "url": "/files/medical-care-request-zh-en.pdf",
+          "url": "./files/medical-care-request-zh-en.pdf",
           "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中英双语交互版.pdf"
         },
         {
@@ -197,7 +197,7 @@
           "version": "1.5",
           "pages": null,
           "size": "43 KB",
-          "url": "/files/medical-care-request-zh-en.docx",
+          "url": "./files/medical-care-request-zh-en.docx",
           "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中英双语大字版.docx"
         },
         {
@@ -206,7 +206,7 @@
           "version": "1.5",
           "pages": 3,
           "size": "1.7 MB",
-          "url": "/files/medical-care-request-zh-ja.pdf",
+          "url": "./files/medical-care-request-zh-ja.pdf",
           "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中日双语交互版.pdf"
         },
         {
@@ -215,7 +215,7 @@
           "version": "1.5",
           "pages": null,
           "size": "43 KB",
-          "url": "/files/medical-care-request-zh-ja.docx",
+          "url": "./files/medical-care-request-zh-ja.docx",
           "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中日双语大字版.docx"
         }
       ]
