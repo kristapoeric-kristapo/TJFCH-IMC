@@ -1,17 +1,19 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-09",
   "documents": [
     {
       "id": "overview",
       "title": {
         "zh": "中心总体介绍",
         "en": "About the center",
-        "ja": "センターのご案内"
+        "ja": "センターのご案内",
+        "ru": "О центре"
       },
       "description": {
         "zh": "了解中心、诊疗服务与就医流程。",
         "en": "Explore our center, medical services and care journey.",
-        "ja": "センター、診療サービス、受診の流れをご紹介します。"
+        "ja": "センター、診療サービス、受診の流れをご紹介します。",
+        "ru": "Наш центр, медицинские услуги и этапы получения помощи."
       },
       "files": [
         {
@@ -40,6 +42,16 @@
           "size": "14.6 MB",
           "url": "./files/center-overview-ja.pdf",
           "downloadName": "天津市第一中心医院_国际诊疗中心_日文版1.2.pdf"
+        },
+        {
+          "language": "ru",
+          "format": "pdf",
+          "version": "1.0",
+          "edition": "RU 1.0",
+          "pages": 38,
+          "size": "19.3 MB",
+          "url": "./files/center-overview-ru.pdf",
+          "downloadName": "center-overview-ru.pdf"
         }
       ]
     },
@@ -48,12 +60,14 @@
       "title": {
         "zh": "门诊就诊指南",
         "en": "Outpatient guide",
-        "ja": "外来受診のご案内"
+        "ja": "外来受診のご案内",
+        "ru": "Амбулаторный прием"
       },
       "description": {
         "zh": "预约准备、到院交通与门诊指引。",
         "en": "Appointments, preparing for your visit and directions.",
-        "ja": "予約、受診の準備、アクセスと院内案内。"
+        "ja": "予約、受診の準備、アクセスと院内案内。",
+        "ru": "Запись на прием, подготовка к визиту и маршрут до больницы."
       },
       "files": [
         {
@@ -82,6 +96,16 @@
           "size": "20.9 MB",
           "url": "./files/outpatient-guide-ja.pdf",
           "downloadName": "国际诊疗中心门诊就诊指南_1.1版_日本語.pdf"
+        },
+        {
+          "language": "ru",
+          "format": "pdf",
+          "version": "1.0",
+          "edition": "RU 1.0",
+          "pages": 7,
+          "size": "6.9 MB",
+          "url": "./files/outpatient-guide-ru.pdf",
+          "downloadName": "outpatient-guide-ru.pdf"
         }
       ]
     },
@@ -90,12 +114,14 @@
       "title": {
         "zh": "入院办理指南",
         "en": "Admission guide",
-        "ja": "入院手続きのご案内"
+        "ja": "入院手続きのご案内",
+        "ru": "Госпитализация"
       },
       "description": {
         "zh": "办理入院、所需材料与病区路线。",
         "en": "Admission steps, required documents and ward directions.",
-        "ja": "入院手続き、必要な書類と病棟への行き方。"
+        "ja": "入院手続き、必要な書類と病棟への行き方。",
+        "ru": "Порядок госпитализации, необходимые документы и маршрут в отделение."
       },
       "files": [
         {
@@ -124,6 +150,16 @@
           "size": "4.9 MB",
           "url": "./files/admission-guide-ja.pdf",
           "downloadName": "国际诊疗中心住院指南_1.1版_日本語.pdf"
+        },
+        {
+          "language": "ru",
+          "format": "pdf",
+          "version": "1.0",
+          "edition": "RU 1.0",
+          "pages": 7,
+          "size": "3.7 MB",
+          "url": "./files/admission-guide-ru.pdf",
+          "downloadName": "admission-guide-ru.pdf"
         }
       ]
     },
@@ -132,12 +168,14 @@
       "title": {
         "zh": "房型与设施",
         "en": "Rooms & amenities",
-        "ja": "病室・アメニティ"
+        "ja": "病室・アメニティ",
+        "ru": "Палаты и оснащение"
       },
       "description": {
         "zh": "查看病房照片、面积与设施配置。",
         "en": "Room photographs, floor areas and available amenities.",
-        "ja": "病室の写真、広さ、設備をご覧いただけます。"
+        "ja": "病室の写真、広さ、設備をご覧いただけます。",
+        "ru": "Фотографии палат, их площадь и доступное оснащение."
       },
       "files": [
         {
@@ -166,6 +204,16 @@
           "size": "10.2 MB",
           "url": "./files/rooms-amenities-ja.pdf",
           "downloadName": "国诊中心病房配置_V1.0_日文版.pdf"
+        },
+        {
+          "language": "ru",
+          "format": "pdf",
+          "version": "1.0",
+          "edition": "RU 1.0",
+          "pages": 3,
+          "size": "4.8 MB",
+          "url": "./files/rooms-amenities-ru.pdf",
+          "downloadName": "rooms-amenities-ru.pdf"
         }
       ]
     },
@@ -174,12 +222,14 @@
       "title": {
         "zh": "就诊申请表",
         "en": "Medical care request form",
-        "ja": "受診申請書"
+        "ja": "受診申請書",
+        "ru": "Заявка на медицинскую помощь"
       },
       "description": {
         "zh": "中英双语 · 三页空白表格。",
         "en": "A blank, three-page bilingual form.",
-        "ja": "日本語・中国語併記の申請用紙（3ページ）。"
+        "ja": "日本語・中国語併記の申請用紙（3ページ）。",
+        "ru": "Незаполненная форма на русском и китайском языках · 5 страниц."
       },
       "files": [
         {
@@ -217,6 +267,26 @@
           "size": "43 KB",
           "url": "./files/medical-care-request-zh-ja.docx",
           "downloadName": "天津市第一中心医院_国际患者就诊申请表_V1.5_三页中日双语大字版.docx"
+        },
+        {
+          "language": "zh-ru",
+          "format": "pdf",
+          "version": "1.0",
+          "edition": "RU 1.0",
+          "pages": 5,
+          "size": "619 KB",
+          "url": "./files/medical-care-request-zh-ru.pdf",
+          "downloadName": "medical-care-request-zh-ru.pdf"
+        },
+        {
+          "language": "zh-ru",
+          "format": "docx",
+          "version": "1.0",
+          "edition": "RU 1.0",
+          "pages": 5,
+          "size": "44 KB",
+          "url": "./files/medical-care-request-zh-ru.docx",
+          "downloadName": "medical-care-request-zh-ru.docx"
         }
       ]
     }
